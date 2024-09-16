@@ -1,6 +1,6 @@
 👋 Hi, I’m RahulB
 
-💼 A seasoned IT veteran with over decade of experience specializing in Cloud Infrastructure, Information Security, CloudOps, SRE, and DevOps. Now Venturing into AI/ML focusing on dataprocessing and mlops
+💼 A seasoned IT veteran with over decade of experience specializing in Cloud Infrastructure, Information Security,Containerization, CloudOps, SRE, and Cloud Native applications. Now Venturing into AI/ML focusing on dataprocessing and mlops
 
 🚀 Continuously innovating and seeking new ways to elevate and push the boundaries of IT infrastructure with creative, out-of-the-box solutions.
 
