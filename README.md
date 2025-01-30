@@ -2,9 +2,8 @@
 
 💼 A seasoned IT veteran with over decade of experience specializing in Cloud Infrastructure, Information Security,Containerization, CloudOps, SRE, and Cloud Native applications. Now Venturing into AI/ML focusing on dataprocessing and mlops
 
-🚀 Continuously innovating and seeking new ways to elevate and push the boundaries of IT infrastructure with creative, out-of-the-box solutions.
 
-🤝 Looking to collaborate on exciting projects in data processing, cloud infrastructure adoption, and operations. With my experience, I’m eager to drive impactful, scalable solutions.
+🤝 If you have a cool idea or project and Looking for help/assistance/collaboration on cloud infrastructure, cloud native application setup, kubernetes,  serverless setups or  AI and any other topics , feel free to reach out . Happy to collaborate on exciting projects.
 
 📬 Reach out to me via [Email me](mailto:00r2@duck.com) — I’m always open to connecting and collaborating!
 
