@@ -5,6 +5,8 @@
 
 🤝 If you have a cool idea or project and Looking for help/assistance/collaboration on cloud infrastructure, cloud native application setup, kubernetes,  serverless setups or  AI and any other topics , feel free to reach out . Happy to collaborate on exciting projects.
 
+🚀 Or if you are looking for mentorship in navigating the IT space or any of the above, Happy to assist :) 
+
 📬 Reach out to me via [Email me](mailto:00r2@duck.com) — I’m always open to connecting and collaborating!
 
 <!---
